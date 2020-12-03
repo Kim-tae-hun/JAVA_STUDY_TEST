@@ -25,3 +25,10 @@ git clone https://github.com/Kim-tae-hun/JAVA_STUDY_TEST.git
 
 정상적(main)
 
+git init
+
+######################
+git pull origin main 
+main을 나의작업영역인 origin 으로 가져온다.
+working dir  별칭 -origin branch
+remote repo의 branch 이름은 main
