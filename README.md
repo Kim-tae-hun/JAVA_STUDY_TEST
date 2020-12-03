@@ -1,1 +1,3 @@
 # JAVA_STUDY_TEST
+
+안녕하세요. HOSIHO의 Git
