@@ -18,5 +18,10 @@ git config --global user.name "HOSIHO"                  유저이름설정
 git config --global user.email "kksan33@naver.com"      유저이메일설정
 git config --global --list                              설정한 내용확인
 
-user.name=HOSIHO
-user.email=kksan33@naver.com
+https://github.com/Kim-tae-hun/JAVA_STUDY_TEST.git
+git 위치를 복사
+
+git clone https://github.com/Kim-tae-hun/JAVA_STUDY_TEST.git
+
+정상적(main)
+
